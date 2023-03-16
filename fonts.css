@@ -1,0 +1,29 @@
+@font-face {
+  font-family: sf_pro_regular;
+  src: url(./assets/SF-Pro-Text-Regular.otf);
+}
+
+@font-face {
+  font-family: sf_pro_light;
+  src: url(./assets/SF-Pro-Text-Light.otf);
+}
+
+@font-face {
+  font-family: robot_regular;
+  src: url(./assets/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: inter_regular;
+  src: url(./assets/Inter-Regular.ttf);
+}
+
+@font-face {
+  font-family: inter_medium;
+  src: url(./assets/Inter-Medium.ttf);
+}
+
+@font-face {
+  font-family: inter_light;
+  src: url(./assets/Inter-Light.ttf);
+}
